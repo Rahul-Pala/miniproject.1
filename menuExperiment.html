@@ -1,0 +1,41 @@
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center; /* Center the container horizontally */
+    align-items: center; /* Center the container vertically */
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    display: flex; /* Use flexbox for layout */
+    justify-content: space-between; /* Items evenly distributed along the main axis */
+    width: 80%; /* Adjust as needed */
+    border: 2px solid #ccc;
+    padding: 20px;
+}
+
+.box {
+    flex: 1; /* Each box takes equal space */
+    padding: 20px;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+</style>
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Flexbox Example</title>
+      <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+      <div class="container">
+          <div class="box">Single scoop - $6.00</div>
+          <div class="box">Double scoop - $8.00</div>
+          <div class="box">Triple scoop - $10.00</div>
+      </div>
+  </body>
+  </html>

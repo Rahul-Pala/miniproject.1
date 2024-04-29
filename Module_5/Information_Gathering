@@ -1,0 +1,55 @@
+1. Purpose and Goals:
+   -The purpose of the shop's website is to:
+   -Give online presence.
+   -Attract customers.
+   -provide essential information.
+   -Display Menu/products
+   -Online ordering
+   -Customer engagement
+   -Brand building
+   -Marketing and promotion
+   -Customer support
+   -Increasing sales
+
+2. Target Audience:
+   -The target audience for the shop are locals who live within 20km radius.
+   -Niche market as all age groups eat gelato.
+   -Have to give the website a professional and simple look which is easy to use for all age groups.
+
+3. Features and Functionality:
+   - Menu: Display the flavors, toppings, and other products offered.
+   - Online Ordering: If applicable, provide a seamless and user-friendly ordering process.
+   - Store Locator: Help customers find physical location.
+   - Special Offers/Promotions: Highlight any discounts or promotions to attract customers.
+   - Social Media Integration: Allow users to share their experiences and connect with brand on social media platforms.
+   - Newsletter Signup: Capture leads for future marketing efforts.
+   - Responsive Design: Ensure the website is optimized for various devices (desktops, tablets, smartphones).
+
+4. Content:
+   - High-Quality Images: Showcase gelato products to entice visitors.
+   - Descriptions: Provide enticing descriptions for each flavor or product.
+   - About Us: Share the behind your brand in the abouts page, your values, and what makes your gelato so special.
+   - Testimonials: Feature positive reviews and testimonials from satisfied customers.
+
+5. User Experience (UX):
+   - Intuitive Navigation: Make it easy for users to find what they're looking for.
+   - Fast Load Times: Optimize performance to reduce bounce rates.
+   - Simple Checkout Process: Minimize steps and friction for online orders.
+   - Accessibility: Ensure the website is accessible to users with disabilities.
+
+6. Brand Identity:
+   - Visual Design: Reflect brand's personality through colors, typography, and imagery.
+   - Tone of Voice: Use language that aligns with your brand identity and resonates with your target audience.
+   - Consistency: Maintain a consistent brand experience across all touchpoints.
+
+7. Technical Requirements:
+   - Content Management System (CMS): Choose a platform that allows for easy content updates.
+   - Hosting: Select a reliable hosting provider to ensure uptime and security.
+   - Payment Gateway: If accepting online payments, integrate a secure payment gateway.
+   - Security: Implement measures to protect user data and prevent cyber threats.
+
+
+Question:
+What might you extend the features of your application in future?
+I will implement online ordering. The customer will be able to select gelato flavours and do online ordering and do
+online payment through secure payment gateway. 
